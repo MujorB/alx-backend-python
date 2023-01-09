@@ -19,4 +19,3 @@ async def task_wait_n(n: int, max_delay: int) -> typing.List[float]:
         array.append(result)
 
     return array
-    
